@@ -4,7 +4,7 @@
 This project focused on the **design, simulation, and testing** of a **BJT common collector amplifier** for McMaster University’s **ELECENG 2EI4** course.  
 The circuit was designed to achieve a **midband gain ≥ 0.9** while operating linearly at **1 kHz, 1 Vpp input**.  
 
-🎥 **Project Video:** [Watch on YouTube](https://youtu.be/C1Gav9spkGM)  
+🎥 **Project Video:** [Watch on YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1)
 
 ---
 
